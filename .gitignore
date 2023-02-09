@@ -1,0 +1,5 @@
+production/*
+thumbcluster_left-backups/*
+thumbcluster_left.kicad_prl
+.DS_Store
+fp-info-cache
